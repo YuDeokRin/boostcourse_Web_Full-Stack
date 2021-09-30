@@ -48,11 +48,11 @@
 - 인터넷 상의 자원의 위치
 - 특정 웹 서버의 특정 파일에 접근하기 위한 경로 혹은 주소
 
-![Untitled](2)%20%E1%84%8B%E1%85%B0%E1%86%B8%E1%84%8B%E1%85%B4%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%A8%20(HTTP%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%90%E1%85%A9%E1%84%8F%E1%85%A9%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2)%2034ff1530f3694251976d04a8e987baf0/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/56623911/135478064-ec5e1fa2-5289-403a-8101-71693ac58534.png)
 
 ---
+![Untitled 1](https://user-images.githubusercontent.com/56623911/135478087-014c46c2-a24d-4f15-8a20-b6dcfd471d26.png)
 
-![Untitled](2)%20%E1%84%8B%E1%85%B0%E1%86%B8%E1%84%8B%E1%85%B4%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%A8%20(HTTP%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%90%E1%85%A9%E1%84%8F%E1%85%A9%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2)%2034ff1530f3694251976d04a8e987baf0/Untitled%201.png)
 
 **HTTP (Hypertext Transfer Protocol)**
 
