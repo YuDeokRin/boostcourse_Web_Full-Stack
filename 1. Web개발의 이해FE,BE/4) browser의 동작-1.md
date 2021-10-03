@@ -34,7 +34,8 @@ Browser에는 데이터를 해석해주는 파서와 데이터를 화면에 표�
 
 아래 그림이 대표적인 내용입니다.
 
-![Untitled](4)%20browser%E1%84%8B%E1%85%B4%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%A8-1%20bb06f0bb36ea4754a7511f9bbe5bff80/Untitled.png)
+
+![Untitled](https://user-images.githubusercontent.com/56623911/135740467-3e4f5e83-66ee-445c-95df-cbad643147c8.png)
 
 HTML을 해석해서 DOM Tree를 만들고, CSS를 해석해서 역시 CSS Tree(CSS Object Model)을 만듭니다.
 
