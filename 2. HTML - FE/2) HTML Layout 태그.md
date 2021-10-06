@@ -35,5 +35,5 @@
 html태그는 레이아웃을 할 때도 그 의미에 맞는 것을 찾아 사용해야 검색도 더 잘되고, 가독성 있는 코드를 만들 수 있게 됩니다.
 
 지금 언급된 태그들은 예를 들어 아래와 같은 화면으로 구성됩니다.
-
-![Untitled](2)%20HTML%20Layout%20%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%20da781a48177c402dbea195a0ed549e89/Untitled.png)
+  
+![Untitled](https://user-images.githubusercontent.com/56623911/136218283-13140c8c-7c57-4e07-8096-57e947b168d5.png)
