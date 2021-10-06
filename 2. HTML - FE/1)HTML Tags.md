@@ -80,5 +80,6 @@ div 태그는 block 엘리먼트라고 하는데 일반적인 영역을 표현�
 ```
 
 - 결과
-    
-    ![Untitled](1)HTML%20Tags%20313574ddb4694a96829652eeb8e493ec/Untitled.png)
+    ![Untitled](https://user-images.githubusercontent.com/56623911/136217577-0356e233-b33e-46aa-a97e-a4418ad257b9.png)
+
+  
