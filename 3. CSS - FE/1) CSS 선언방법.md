@@ -38,7 +38,8 @@ CSS는 CSS1이 나온 2002년이후 CSS2, CSS3로 발전하였다.
 - 테이블
 - 사용자 인터페이스
 
-![Untitled](1)%20CSS%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20856b35a634614b3ea740ddde799cfb02/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/56623911/136562242-6affd845-3010-4e63-9c78-55e9df9bdd0b.png)
+
 
 ```css
 span {
@@ -143,8 +144,8 @@ CSS연습
     
 - 결과
     
-    ![Untitled](1)%20CSS%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20856b35a634614b3ea740ddde799cfb02/Untitled%201.png)
-    
+![Untitled]![Untitled 1](https://user-images.githubusercontent.com/56623911/136562339-5a1b1d20-07be-4359-8122-b2d3edacfda9.png)
+
 
 - CSS3 스타일 시스토 꾸민 웹페이지
     
@@ -171,5 +172,5 @@ CSS연습
     ```
     
 - 결과
-    
-    ![Untitled](1)%20CSS%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20856b35a634614b3ea740ddde799cfb02/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/56623911/136562375-9601d166-e43c-4314-8148-5d2c5c6f0d73.png)
+
