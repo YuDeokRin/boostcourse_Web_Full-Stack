@@ -187,7 +187,8 @@ top / left / right / bottom로 설정합니다.
     ```
     
 - 결과
-  ![Untitled 1](https://user-images.githubusercontent.com/56623911/136698285-7e739788-c43b-448f-b206-d28223d81be4.png)
+
+![Untitled 1](https://user-images.githubusercontent.com/56623911/136698285-7e739788-c43b-448f-b206-d28223d81be4.png)
   
 
 **엘리먼트가 배치되는 방식 (margin:10px)**
