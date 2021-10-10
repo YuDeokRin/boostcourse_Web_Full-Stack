@@ -98,9 +98,10 @@ display 속성이 inline인 경우는 우측으로, 그리고 아래쪽으로 �
     ```
     
 - 결과
-    
-    ![Untitled](5)%20Element%E1%84%80%E1%85%A1%20%E1%84%87%E1%85%A2%E1%84%8E%E1%85%B5%E1%84%83%E1%85%AC%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8(CSS%20layout)-1%205815b4c528ec442c805ae3912445b41a/Untitled.png)
-    
+  
+![Untitled](https://user-images.githubusercontent.com/56623911/136698263-b8bb068f-de33-4f04-b0ca-a668a753f6f8.png)
+
+
 
 ---
 
@@ -186,9 +187,8 @@ top / left / right / bottom로 설정합니다.
     ```
     
 - 결과
-    
-    ![Untitled](5)%20Element%E1%84%80%E1%85%A1%20%E1%84%87%E1%85%A2%E1%84%8E%E1%85%B5%E1%84%83%E1%85%AC%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8(CSS%20layout)-1%205815b4c528ec442c805ae3912445b41a/Untitled%201.png)
-    
+  ![Untitled 1](https://user-images.githubusercontent.com/56623911/136698285-7e739788-c43b-448f-b206-d28223d81be4.png)
+  
 
 **엘리먼트가 배치되는 방식 (margin:10px)**
 
@@ -250,8 +250,8 @@ float 속성으로 원래 flow에서 벗어날 수 있고 둥둥 떠다닐 수 �
     
 - 결과
     
-    ![Untitled](5)%20Element%E1%84%80%E1%85%A1%20%E1%84%87%E1%85%A2%E1%84%8E%E1%85%B5%E1%84%83%E1%85%AC%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8(CSS%20layout)-1%205815b4c528ec442c805ae3912445b41a/Untitled%202.png)
-    
+![Untitled 2](https://user-images.githubusercontent.com/56623911/136698292-fb0dd7e0-3142-45de-b1b1-deb1aaefa844.png)
+
 
 float의 속성은 이런 특이성 때문에 웹사이트의 전체 레이아웃 배치에서 유용하게 활용됩니다.
 
@@ -261,7 +261,7 @@ float의 속성은 이런 특이성 때문에 웹사이트의 전체 레이아�
 
 margin, padding, border, outline으로 생성되는 것입니다.
 
-![Untitled](5)%20Element%E1%84%80%E1%85%A1%20%E1%84%87%E1%85%A2%E1%84%8E%E1%85%B5%E1%84%83%E1%85%AC%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8(CSS%20layout)-1%205815b4c528ec442c805ae3912445b41a/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/56623911/136698294-81d40a8d-0e5f-4bb5-97ae-6f4a97b9d525.png)
 
 - **내용**
     
