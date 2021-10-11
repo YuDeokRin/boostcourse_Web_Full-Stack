@@ -24,7 +24,8 @@ WAS에 설치(deploy)되어 동작하는 어플리케이션입니다.
 
 **자바 웹 어플리케이션의 폴더 구조**
 
-![Untitled](1)%20Servlet%20%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%AB%20aa2445c5a57649009449bf19789dcf9d/Untitled.png)
+
+![Untitled](https://user-images.githubusercontent.com/56623911/136806223-ceadd240-b8f0-4f86-8eb2-e20dae97e494.png)
 
 **서블릿이란?**
 
