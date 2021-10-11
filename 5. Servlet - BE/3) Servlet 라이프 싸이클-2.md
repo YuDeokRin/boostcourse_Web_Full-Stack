@@ -20,7 +20,9 @@
 
 **Servlet**
 
-![Untitled](3)%20Servlet%20%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%91%E1%85%B3%20%E1%84%8A%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%B3%E1%86%AF-2%202377d6b406df440ea7b3d9b7010672d2/Untitled.png)
+
+![Untitled](https://user-images.githubusercontent.com/56623911/136806905-5e5fb3e5-cab0-40aa-81a2-3e75c3a5523d.png)
+
 
 **Servlet 생명주기**
 
