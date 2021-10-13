@@ -29,7 +29,7 @@ JSP는 로직을 구현하는 것은 불편하지만 HTML을 출력하기엔 편
 - 프로그램 로직 수행은 Servlet에서, 결과 출력은 JSP에서 하는 것이 유리하다.
 - Servlet과 JSP의 장단점을 해결하기 위해서 Servlet에서 프로그램 로직이 수행되고, 그 결과를 JSP에게 포워딩하는 방법이 사용되게 되었다. 이를 Servlet과 JSP연동이라고 한다.
 
-![Untitled](3)%20Servlet%20&%20JSP%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%207b7b100a8a974650bc999694792f8b72/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/56623911/137100392-1d84b5fe-03fd-4aba-9685-ca6a63c73523.png)
 
 01.Servlet파일
 
@@ -102,4 +102,4 @@ public class LogicServlet extends HttpServlet {
 
 - 결과
     
-    ![Untitled](3)%20Servlet%20&%20JSP%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%207b7b100a8a974650bc999694792f8b72/Untitled%201.png)
+ ![Untitled 1](https://user-images.githubusercontent.com/56623911/137100413-de14779c-6b38-4c30-a445-cefee014bc3e.png)
