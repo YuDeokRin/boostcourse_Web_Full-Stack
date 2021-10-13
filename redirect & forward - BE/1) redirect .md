@@ -62,12 +62,11 @@
 ```
 
 - 결과
-    
-    ![Untitled](1)%20redirect%200eedece73ada4896a82993b06541ae4c/Untitled.png)
-    
 
-![Untitled](1)%20redirect%200eedece73ada4896a82993b06541ae4c/Untitled%201.png)
+![Untitled](https://user-images.githubusercontent.com/56623911/137100144-e32f1f9b-8090-4d77-a30d-d361701e12e8.png)
+
+![Untitled 1](https://user-images.githubusercontent.com/56623911/137100179-e84ff711-2952-4585-a7de-24033d5ccc93.png)
 
 - 브라우저에서 리다이렉트 확인
 
-![Untitled](1)%20redirect%200eedece73ada4896a82993b06541ae4c/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/56623911/137100194-d04ec897-1528-4c09-b391-963e0089de25.png)
