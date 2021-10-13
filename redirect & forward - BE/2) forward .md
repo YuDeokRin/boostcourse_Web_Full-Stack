@@ -19,7 +19,8 @@ WAS의 서블릿이나 JSP가 요청을 받은 후 그 요청을 처리하다가
 - RequestDispatcher
 - forward()
 
-![Untitled](2)%20forward%2044fa2511d1a341c0a6d66d3ad39fc926/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/56623911/137100571-f3245ab7-a1f3-45ee-abea-ceca942911a3.png)
+
 
 **forward란?**
 
@@ -129,4 +130,5 @@ public class NextServlet extends HttpServlet {
 
 - 결과
     
-    ![Untitled](2)%20forward%2044fa2511d1a341c0a6d66d3ad39fc926/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/56623911/137100588-997e2691-9ce4-4925-b2a2-097691f17a4a.png)
+
