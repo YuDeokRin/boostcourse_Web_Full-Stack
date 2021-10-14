@@ -16,7 +16,10 @@
 - HttpServletRequest
 - HttpServletResponse
 
-![Untitled](4)%20Request,%20Response%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%20%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5-1%2047104dfc402c498cab229cc29bc1010f/Untitled.png)
+
+
+![Untitled](https://user-images.githubusercontent.com/56623911/137340107-d073d6ab-6da5-4400-afc0-0a1186ea73b4.png)
+
 
 **요청과 응답**
 
